@@ -9,7 +9,7 @@ const Home = () => {
       <S.Main>
         <Link to="/login">Login</Link>
         <Link to="/cadastro">Cadastro</Link>
-        <Link to="/criar">Criar Imagem</Link>
+        <Link to="/criar">Clique para Criar Imagem</Link>
       </S.Main>
     </>
   );
